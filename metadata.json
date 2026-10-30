@@ -1,0 +1,6 @@
+{
+  "name": "Dino Runner - Friend Profiles",
+  "description": "A classic Chrome Dino Runner clone with custom friend profiles, avatars, and zero-latency custom sound effects.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
